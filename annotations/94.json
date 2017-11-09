@@ -1,0 +1,19 @@
+{
+  "filename" : "94.jpeg",
+  "folder" : "panda_images",
+  "image_w_h" : [
+    249,
+    196
+  ],
+  "objects" : [
+    {
+      "label" : "panda",
+      "x_y_w_h" : [
+        74,
+        17,
+        125,
+        149
+      ]
+    }
+  ]
+}
